@@ -5,6 +5,8 @@ a welcome page with duʿā, a countdown, and an RSVP form.
 
 ## Make it yours
 
+Step-by-step instructions for every change are in [GUIDE.md](GUIDE.md).
+
 1. **Names, family, date and venue** – edit the text in `index.html`
    (search for "Amina", "Yusuf", "Name" and "Venue").
 2. **Date for the countdown** – change `weddingDate` at the top of `script.js`.
